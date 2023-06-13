@@ -2,19 +2,16 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://sde.ok.gov/sites/ok.gov.sde/files/studinfosyslogo1.gif" alt="Project logo"></a>
+ <img width=200px height=200px src="netflix-logo.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Fullstack Student Information System</h3>
+<h3 align="center">Fullstack Netflix-Clone</h3>
 
 <div align="center">
- Visit at:https://paulselvi2022.github.io/FullStack-Student-Information-System/
-
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
 </div>
 
 ---
@@ -35,32 +32,32 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-    Create Full stack student information system using Spring Boot and React. In this video we will use Spring Boot ( MVC, JPA, Hibernate) and Mysql Database to create the Backend application (Restful web service API) with and use React.js to create the frontend application with Material UI and React Hooks( useState, useEffect) with functional components. 
+    Netflix is a popular streaming service that offers a wide range of movies, TV shows, documentaries, and other forms of digital media. It was founded in 1997 by Reed Hastings and Marc Randolph in Los Gatos, California. Originally, Netflix operated as a DVD rental-by-mail service, but in 2007, it introduced its streaming service, which marked a significant shift in the company's business model.
 
+Netflix's streaming platform allows subscribers to watch content instantly on various devices, such as smart TVs, computers, smartphones, and tablets, as long as they have an internet connection. It offers a vast library of movies and TV series, including both licensed content and original productions known as Netflix Originals.
+
+Netflix has gained popularity due to its convenience, affordability, and extensive content library. It has expanded its presence globally and is available in many countries. The streaming service offers various subscription plans with different features and pricing options. Subscribers can create individual profiles within a single account, allowing personalized recommendations and the ability to track viewing history.
+
+One of the notable aspects of Netflix is its investment in producing original content. It has created critically acclaimed TV shows and movies such as "Stranger Things," "The Crown," "Narcos," "Bird Box," and "The Irishman," among many others. These original productions have contributed to Netflix's success and helped differentiate it from other streaming platforms.
+
+Netflix has faced competition from other streaming services, such as Amazon Prime Video, Hulu, Disney+, HBO Max, and others. To stay competitive, Netflix continues to invest in original content, strike partnerships with various studios, and expand its global reach.
+
+Please note that the above information is based on the knowledge available up until September 2021, and there may have been changes or developments in Netflix's services and offerings since then.
 ## 🏁 Getting Started <a name = "getting_started"></a>
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
-
 ### Prerequisites
-You need to install
+Before getting started, ensure that you have the following prerequisites installed:
 
-  *Node.js
-  
-  *Java 20
-  
-  *MySql Database
-  
-  *Intellij IDEA
-  
-  *VS Code
-  
-  For testing API
-  
-  *POSTMAN
-  
-  For Design
-  
-  *Material UI
+You need to install
+* [MongoDB](https://www.mongodb.com/cloud/atlas/register)
+* [ExpressJs](https://expressjs.com/)
+* [React Js](https://legacy.reactjs.org/)
+* [Nodejs](https://nodejs.org/en/download)
+* [VS code](https://code.visualstudio.com/download)
+
+For Testing API
+* [Post Man](https://www.postman.com/downloads/)
 
 
 ### Installing
@@ -203,20 +200,12 @@ The outputs at the frontend,database and backend parts are attached below.
 
 ### Break down into end to end tests
 Front end:
-![reactoutput1](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/683ae948-80bf-454e-ae93-d985599f09a4)
-![reactoutput2](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/ac6c9085-c2cc-4595-9540-ae0c52a1f33f)
-
-Backend:
-![backendoutput](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/f703fe7f-0373-4ce7-a6e0-b61a0e59cd34)
-
-
-Database:
-![getstudentdetails](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/c0c6e27b-6de8-479a-a01d-a4ad9ff59224)
-![addstudentdetails](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/3d13fee8-f9a4-40a8-8c3d-0d06e215cb4c)
+<img width=100%  src="Netflix-Home.png" alt="Project logo">
+<img width=100%  src="Netflix-Signup.png" alt="Project logo">
+<img width=100%  src="Netflix-login.png" alt="Project logo">
 
 ### And coding style tests
 During debugging,the output is shown below,
-![coderun](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/ee010bda-54e9-4c41-b2eb-54481d572074)
 
 
 ## 🎈 Usage <a name="usage"></a>
@@ -226,8 +215,9 @@ This project is used to create Full stack student information system using Sprin
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MySqlDB](https://www.phpmyadmin.net/) - Database
-- [Intellij IDEA](https://www.jetbrains.com/idea/) - Server Framework
+- [MongoDB](https://www.mongodb.com/) - Database
+- [Express](https://expressjs.com/) - Server Framework
+- [React](https://legacy.reactjs.org/docs/getting-started.html) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
